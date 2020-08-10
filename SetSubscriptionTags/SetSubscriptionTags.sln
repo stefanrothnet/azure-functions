@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetSubscriptionTags", "SetSubscriptionTags\SetSubscriptionTags.csproj", "{0C470ACE-08EE-4371-9483-63FF84E0DB50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C470ACE-08EE-4371-9483-63FF84E0DB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C470ACE-08EE-4371-9483-63FF84E0DB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C470ACE-08EE-4371-9483-63FF84E0DB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C470ACE-08EE-4371-9483-63FF84E0DB50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E513B6C-062E-45F3-A84E-7D1683AC008C}
+	EndGlobalSection
+EndGlobal
